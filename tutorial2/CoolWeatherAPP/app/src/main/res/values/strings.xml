@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CoolWeather APP</string>
+    <string name="Latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="SeaLevel">Sea Level Pressure</string>
+    <string name="SeaLevelValue">Sea Level Pressure</string>
+    <string name="WindDir">Wind Direction</string>
+    <string name="WindDirValue">Wind Direction</string>
+    <string name="WindSpeed">Wind Speed</string>
+    <string name="WindSpeedValue">Wind Speed</string>
+    <string name="Temperature">Temperature</string>
+    <string name="TemperatureValue">Temperature</string>
+    <string name="Time">Time</string>
+    <string name="TimeValue">Time</string>
+    <string name="button"> Update</string>
+    <string name="latitudeValue">38.7167</string>
+    <string name="longitudeValue">-9.1333</string>
+    <string name="currentLocationID">locationID</string>
+    <string name="CurrentLocation">Current Location</string>
+    <string name="Tomorrow">Tomorrow</string>
+    <string name="TwoDays">2 days</string>
+    <string name="ThreeDays">3 days</string>
+    <string name="FourDays">4 days</string>
+    <string name="FiveDays">5 days</string>
+    <string name="SixDays">6 days</string>
+
+</resources>

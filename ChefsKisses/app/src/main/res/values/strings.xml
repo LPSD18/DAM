@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chef\'s Kisses</string>
+
+    <!-- Bottom nav  -->
+    <string name="Home">Home</string>
+    <string name="Add">Add</string>
+    <string name="Search">Search</string>
+    <string name="Profile">Profile</string>
+    <string name="Register">Register</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="back_button">go_back</string>
+    <string name="save_button">Save meal</string>
+    <string name="profile_image">Profile Image\n</string>
+    <string name="About">Hello\nMy name is Diogo Lobo\nI\'m 22 years old and Im a student at \nLisbon School of Engineering (ISEL).\nI\'m currently enrolled in a Informatics and\nMultimedia Engineering degree going to my last year.\n</string>
+</resources>

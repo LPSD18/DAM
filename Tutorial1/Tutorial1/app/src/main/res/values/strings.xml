@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tutorial 1</string>
+    <string name="app_name2">Hello World Optional</string>
+    <string name="hello_string">Hello Android World!</string>
+    <string name="first">My First App</string>
+    <string name="image">Heart Face</string>
+    <string name="button">Change screen</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080797102761",
+    "project_id": "chef-s-kisses-7247e",
+    "storage_bucket": "chef-s-kisses-7247e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080797102761:android:a6d87d698b61685cd8dfb8",
+        "android_client_info": {
+          "package_name": "dam.a48168.chefskisses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTQusyJwQKd71USS_sARlObHq0CifBXKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
